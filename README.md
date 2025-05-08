@@ -12,3 +12,8 @@ Le modèle sera installer sur un RPI muni d'une caméra, il doit etre installer 
 - Caméra
 - Alimentation (sur secteur pour l'implémentation et les tests)
 - Adaptateur allume-cigare(pour test embarqué)
+
+
+## Requirement 
+
+PyTorch ==> -pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
