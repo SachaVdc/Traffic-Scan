@@ -3,3 +3,5 @@ Date,Image_Size,Batch_Size,Epochs,Final_Accuracy,Final_Loss,Model_Architecture,D
 2025-06-15 21:32:13,128x128,32,50,0.6340057849884033,0.15336602926254272,None,"{'rotation_range': 15, 'zoom_range': 0.1, 'width_shift_range': 0.1, 'height_shift_range': 0.1, 'horizontal_flip': True}"
 2025-06-15 21:45:42,128x128,32,150,0.5259366035461426,0.1643807291984558,None,"{'rotation_range': 15, 'zoom_range': 0.1, 'width_shift_range': 0.1, 'height_shift_range': 0.1, 'horizontal_flip': True}"
 2025-06-15 22:29:51,128x128,32,150,0.7017291188240051,0.17146283388137817,None,"{'rotation_range': 15, 'zoom_range': 0.1, 'width_shift_range': 0.1, 'height_shift_range': 0.1, 'horizontal_flip': True}"
+2025-06-15 23:11:25,128x128,32,50,0.4510086476802826,0.1796109974384308,None,"{'rotation_range': 30, 'zoom_range': 0.2, 'width_shift_range': 0.2, 'height_shift_range': 0.2, 'horizontal_flip': True}"
+2025-06-15 23:32:56,128x128,32,50,0.15994236311239193,0.19170017540454865,None,"{'rotation_range': 45, 'zoom_range': 0.3, 'width_shift_range': 0.3, 'height_shift_range': 0.3, 'horizontal_flip': True}"
